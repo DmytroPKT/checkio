@@ -1,6 +1,6 @@
 def mult_two(a: int, b: int) -> int:
     # your code here
-    return None
+    return a * b 
 
 
 print("Example")
